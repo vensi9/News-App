@@ -4,7 +4,7 @@ NewsSphere is a web-based news aggregator application that provides users with u
 
 ### Demo
 
-![](./FireShot%20Capture%20027%20-%20News%20App%20-%20localhost.png)
+![](./preview.png)
 
 ## Features
 
